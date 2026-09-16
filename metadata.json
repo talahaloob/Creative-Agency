@@ -1,0 +1,8 @@
+{
+  "name": "Creative Agency CRM",
+  "description": "نظام إدارة علاقات العملاء وفريق المبيعات لشركة Creative Agency مع إدارة الصفقات والمتابعات والعمولات بالشيكل",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
